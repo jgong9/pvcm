@@ -1,6 +1,6 @@
-"0","library(pvcm)"
-"0","library(spls)"
-"2","Sparse Partial Least Squares (SPLS) Regression and
-Classification (version 2.2-3)
-
+"0","library(pvcm)
+"
+"2","Warning message:
+"
+"2","R graphics engine version 14 is not supported by this version of RStudio. The Plots tab will be disabled until a newer version of RStudio is installed. 
 "

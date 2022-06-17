@@ -1,6 +1,0 @@
-"0",""
-"0","## Principal functions"
-"0","plot_pvcm(pvcm_fit, pallet_size = c(2,2), "
-"0","          U_sample = rep(seq(0,1,length.out = 18), dim(yeast$x)[1]),"
-"0","          beta_plot = FALSE"
-"0","          )"

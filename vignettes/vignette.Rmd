@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 ```{r setup}
 library(pvcm)
-library(spls)
+data(yeast)
 ```
 
 ## Functions
@@ -28,7 +28,6 @@ library(spls)
 #### Usage
 ```{R}
 set.seed(12345)
-data(yeast)
 
 ## Preparation for design matrix X and the long y
 # 1. y_vec
